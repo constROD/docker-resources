@@ -1,0 +1,22 @@
+# Dependencies
+node_modules
+
+# Configs
+
+# Caches
+
+# Testings
+
+# Builds
+
+# Miscellaneous
+
+# Logs
+logs
+*.log
+*-debug.log*
+*-error.log*
+
+# Types
+
+# Ignores
