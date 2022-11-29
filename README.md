@@ -3,8 +3,8 @@
 ## Prerequisites
 
 - Download extension and **Prettier - Code formatter** in your VSCode.
-- Install **node** >= v16.13.0
-- Install **pnpm** >= v7.17.0
+- Install **node** >= 16.13.0
+- Install **pnpm** >= 7.17.0
 
 - **(Required for MacOSX):** Run this to give permission husky to run pre-commit hook.
 
