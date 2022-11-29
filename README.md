@@ -19,7 +19,7 @@ $ chmod ug+x .git/hooks/*
 $ nvm use or nvm use 16.13.0
 ```
 
-- **(Optional):** Install Dependencies.
+- **(Optional):** Install dependencies.
 
 ```bash
 $ pnpm i
@@ -38,17 +38,17 @@ $ cd <resource>
 - Run/Start the resource.
 
 ```bash
-$ docker-compose up -d
+$ docker compose up -d
 ```
 
 - Stop the resource.
 
 ```bash
-$ docker-compose stop
+$ docker compose stop
 ```
 
 - Shutdown the resource.
 
 ```bash
-$ docker-compose down
+$ docker compose down
 ```
