@@ -14,7 +14,7 @@ services:
   pgadmin:
     image: dpage/pgadmin4:6
     environment:
-      PGADMIN_DEFAULT_EMAIL: constrod
+      PGADMIN_DEFAULT_EMAIL: constrod@constrod.me
       PGADMIN_DEFAULT_PASSWORD: password
       PGADMIN_LISTEN_PORT: 5050
     ports:
