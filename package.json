@@ -15,6 +15,7 @@
   "author": "Rodrick Alcantara <rialcantara21@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "docker:postgres": "docker compose -f ./postgres/docker-compose.yaml",
     "pre-commit": "lint-staged --allow-empty",
     "prepare": "husky install"
   },
