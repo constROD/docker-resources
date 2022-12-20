@@ -1,5 +1,9 @@
 # Docker Resources
 
+## Available resources
+
+- postgres
+
 ## Prerequisites
 
 - Download extension **ESLint** and **Prettier - Code formatter** in your VSCode.
